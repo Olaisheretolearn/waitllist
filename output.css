@@ -2607,6 +2607,10 @@ body{
     width: 16.666667%;
   }
 
+  .md\:w-2\/6{
+    width: 33.333333%;
+  }
+
   .md\:text-6xl{
     font-size: 3.75rem;
     line-height: 1;
